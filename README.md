@@ -59,3 +59,15 @@ ReverseProxy in golang
 ##### 激活后，下图红框点击。
 
 ![img](.README_imgs/3b2354a851b72de703b589e016128993.png)
+
+
+
+# 热部署 mybatis xml
+
+1. 先安装 jrebel 并破解
+2. 在插件商店安装 [jrebel-mybatisplus-extension](https://plugins.jetbrains.com/plugin/12682-jrebel-mybatisplus-extension)
+
+![image-20240820143825638](.README_imgs/image-20240820143825638.png)
+
+jrebel agent 选这个
+![image-20240820143849643](.README_imgs/image-20240820143849643.png)
